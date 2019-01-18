@@ -4,7 +4,7 @@
 const extractLists = require('./../lib/')
 const chai = require('chai')
 const expect = chai.expect
-const { simple, complex } = require('cardscript-examples')
+const { simple, complex } = require('@wmfs/cardscript-examples')
 
 describe('Run some Cardscript list-extracting tests', function () {
   it('should extract no list from some simple Cardscript', function () {

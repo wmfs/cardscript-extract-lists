@@ -10,7 +10,7 @@ $ npm install cardscript-extract-lists --save
 ## <a name="usage"></a>Usage
 
 ```javascript
-const extractLists = require('cardscript-extract-lists')
+const extractLists = require('@wmfs/cardscript-extract-lists')
 
 const lists = extractLists(
   {
