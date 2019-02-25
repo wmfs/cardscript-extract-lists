@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.1.0...v1.2.0) (2019-02-25)
+
+
+### ✨ Features
+
+* added apilookup support ([fdd4717](https://github.com/wmfs/cardscript-extract-lists/commit/fdd4717))
+
+
+### 🚨 Tests
+
+* fix tests ([98a988e](https://github.com/wmfs/cardscript-extract-lists/commit/98a988e))
+
 # [1.1.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.0.0...v1.1.0) (2019-01-25)
 
 
