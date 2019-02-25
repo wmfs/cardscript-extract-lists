@@ -40,7 +40,7 @@ describe('Run some Cardscript list-extracting tests', function () {
             5: '5 Chillies',
             6: '6 Chillies'
           },
-          primary: {
+          primaryFlavour: {
             DARK_CHOC: 'Dark Chocolate',
             MILK_CHOC: 'Milk Chocolate',
             TOFFEE: 'Toffee',
@@ -50,7 +50,7 @@ describe('Run some Cardscript list-extracting tests', function () {
             SAVOURY: 'Savoury',
             SWEET: 'Sweet'
           },
-          secondary: {
+          secondaryFlavour: {
             DARK_CHOC: 'Dark Chocolate',
             MILK_CHOC: 'Milk Chocolate',
             TOFFEE: 'Toffee',
@@ -157,7 +157,7 @@ describe('Run some Cardscript list-extracting tests', function () {
             value: 6
           }
         ],
-        primary: [
+        primaryFlavour: [
           {
             value: 'MILK_CHOC',
             label: 'Milk Chocolate',
@@ -179,7 +179,7 @@ describe('Run some Cardscript list-extracting tests', function () {
             text: 'Toffee'
           }
         ],
-        secondary: [
+        secondaryFlavour: [
           {
             value: 'MILK_CHOC',
             label: 'Milk Chocolate',
