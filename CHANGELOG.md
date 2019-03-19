@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.2.0...v1.3.0) (2019-03-19)
+
+
+### ✨ Features
+
+* Extract title lists from FactSers ([aa38cd3](https://github.com/wmfs/cardscript-extract-lists/commit/aa38cd3))
+
 # [1.2.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.1.0...v1.2.0) (2019-02-25)
 
 
