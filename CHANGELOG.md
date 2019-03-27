@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.3.0...v1.4.0) (2019-03-27)
+
+
+### ✨ Features
+
+* Extend to pull lists from TabSet Tabs. ([911a260](https://github.com/wmfs/cardscript-extract-lists/commit/911a260))
+
 # [1.3.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.2.0...v1.3.0) (2019-03-19)
 
 
