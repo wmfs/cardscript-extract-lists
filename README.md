@@ -1,7 +1,7 @@
 # cardscript-extract-lists
 
 [![Tymly Cardscript](https://img.shields.io/badge/tymly-cardscript-blue.svg)](https://tymly.io/)
-[![Build Status](https://travis-ci.com/wmfs/cardscript-extract-lists.svg?branch=master)](https://travis-ci.com/wmfs/cardscript-extract-lists)
+[![CircleCI](https://circleci.com/gh/wmfs/cardscript-extract-lists.svg?style=svg)](https://circleci.com/gh/wmfs/cardscript-extract-lists)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/cardscript-extract-lists.svg)](https://www.npmjs.com/package/@wmfs/cardscript-extract-lists) 
 [![codecov](https://codecov.io/gh/wmfs/cardscript-extract-lists/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/cardscript-extract-lists) 
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/cardscript-extract-lists/badge)](https://www.codefactor.io/repository/github/wmfs/cardscript-extract-lists) 
