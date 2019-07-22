@@ -1,3 +1,31 @@
+# [1.5.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.4.0...v1.5.0) (2019-07-22)
+
+
+### ✨ Features
+
+* allow for Input.ApiLookup results card ([b999570](https://github.com/wmfs/cardscript-extract-lists/commit/b999570))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([b5fe451](https://github.com/wmfs/cardscript-extract-lists/commit/b5fe451))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([ce39377](https://github.com/wmfs/cardscript-extract-lists/commit/ce39377))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([ea578d2](https://github.com/wmfs/cardscript-extract-lists/commit/ea578d2))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([bcd0953](https://github.com/wmfs/cardscript-extract-lists/commit/bcd0953))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([0fe5f6f](https://github.com/wmfs/cardscript-extract-lists/commit/0fe5f6f))
+* **deps-dev:** update semantic-release requirement ([e918054](https://github.com/wmfs/cardscript-extract-lists/commit/e918054))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge to readme ([fe3be43](https://github.com/wmfs/cardscript-extract-lists/commit/fe3be43))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([39e7cf9](https://github.com/wmfs/cardscript-extract-lists/commit/39e7cf9))
+* **travis:** Remove Travis config ([48688da](https://github.com/wmfs/cardscript-extract-lists/commit/48688da))
+
 # [1.4.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.3.0...v1.4.0) (2019-03-27)
 
 
