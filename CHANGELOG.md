@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.5.0...v1.6.0) (2019-07-31)
+
+
+### ✨ Features
+
+* extract lists for Choice Set to be filtered ([facffec](https://github.com/wmfs/cardscript-extract-lists/commit/facffec))
+
 # [1.5.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.4.0...v1.5.0) (2019-07-22)
 
 
