@@ -1,3 +1,15 @@
+# [1.7.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.6.1...v1.7.0) (2019-10-10)
+
+
+### ✨ Features
+
+* allow fact set to point to array ([](https://github.com/wmfs/cardscript-extract-lists/commit/11dc13e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/cardscript-extract-lists/commit/662e63a))
+
 ## [1.6.1](https://github.com/wmfs/cardscript-extract-lists/compare/v1.6.0...v1.6.1) (2019-08-05)
 
 
