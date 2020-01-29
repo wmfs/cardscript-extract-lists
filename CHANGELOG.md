@@ -1,3 +1,28 @@
+# [1.8.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.7.0...v1.8.0) (2020-01-29)
+
+
+### ✨ Features
+
+* Allow showWhen condition on Input.ChoiceSet options ([b5ef192](https://github.com/wmfs/cardscript-extract-lists/commit/b5ef1920e38595e6ecc98cb641072401e950c280))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.4 to 3.0.6 ([42b4c94](https://github.com/wmfs/cardscript-extract-lists/commit/42b4c944e1934028bbd2183be1fa2e9a0271bb97))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([eb3e220](https://github.com/wmfs/cardscript-extract-lists/commit/eb3e220aa48f9f37033711f6da11c88d47247893))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.16 to 7.0.18 ([7e20f31](https://github.com/wmfs/cardscript-extract-lists/commit/7e20f31377f925c36482c8e05f10697e229cf106))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([6cf57e2](https://github.com/wmfs/cardscript-extract-lists/commit/6cf57e20a8c5759cbef19907d9e314e5c95329ea))
+* **deps-dev:** bump conventional-changelog-metahub from 2.0.2 to 3.0.0 ([e9725f6](https://github.com/wmfs/cardscript-extract-lists/commit/e9725f6a7276ce802763d77dd53d02c7adc7a126))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([03f8184](https://github.com/wmfs/cardscript-extract-lists/commit/03f81847ffe2123bf196b9ec100f725cb7e0d1da))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([ff9eeb5](https://github.com/wmfs/cardscript-extract-lists/commit/ff9eeb57cee91c478f12d3afa26ba1cd8bce2f8c))
+* **deps-dev:** bump mocha from 6.2.0 to 6.2.2 ([422d426](https://github.com/wmfs/cardscript-extract-lists/commit/422d426769a21d9c0963353683390c19b928b2b0))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([83080ee](https://github.com/wmfs/cardscript-extract-lists/commit/83080eed6b9bb188eceda3d6988aacb674ea5dbc))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([57189e7](https://github.com/wmfs/cardscript-extract-lists/commit/57189e707e8148f76e92e6cda13db39912e33355))
+* **deps-dev:** bump packages ([876c8a0](https://github.com/wmfs/cardscript-extract-lists/commit/876c8a016ce40167b8d56eeb5f49aa66086d58e5))
+* **deps-dev:** bump packages ([cf27388](https://github.com/wmfs/cardscript-extract-lists/commit/cf27388270514ff71c46f9162865b2fb15d14158))
+* **deps-dev:** update codecov requirement from 3.5.0 to 3.6.1 ([b49d7f4](https://github.com/wmfs/cardscript-extract-lists/commit/b49d7f457bbbe3ac18ddab47cb3df5a4d1c6923e))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([2db2013](https://github.com/wmfs/cardscript-extract-lists/commit/2db2013bfdf876a8c8b66f8eb736c84fe887a822))
+
 # [1.7.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.6.1...v1.7.0) (2019-10-10)
 
 
