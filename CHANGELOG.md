@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.9.0...v1.10.0) (2021-06-07)
+
+
+### ✨ Features
+
+* use collections ref from cardscript-schema ([2bdbc39](https://github.com/wmfs/cardscript-extract-lists/commit/2bdbc39fd0e57ad79f87b0aab8175bdb4bbf5e1f))
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema to 1.30.0 ([eb25f4d](https://github.com/wmfs/cardscript-extract-lists/commit/eb25f4d004dcee552151e5409e8b04538e53fecc))
+
 # [1.9.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.8.0...v1.9.0) (2021-06-03)
 
 
