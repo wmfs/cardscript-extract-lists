@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/wmfs/cardscript-extract-lists/compare/v1.11.0...v1.11.1) (2022-01-24)
+
+
+### 🐛 Bug Fixes
+
+* issue with collections, treat fact set with priority to handle lists ([9ecb27e](https://github.com/wmfs/cardscript-extract-lists/commit/9ecb27e8cdb92caddb0b866e7167ab5c066781b9))
+
 # [1.11.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.10.0...v1.11.0) (2022-01-24)
 
 
