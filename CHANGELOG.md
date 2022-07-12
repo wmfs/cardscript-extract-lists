@@ -1,3 +1,11 @@
+# [1.13.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.12.0...v1.13.0) (2022-07-12)
+
+
+### ✨ Features
+
+* allow for choices to have colour ([4f74c05](https://github.com/wmfs/cardscript-extract-lists/commit/4f74c05e4ba906eb7c94bc01ce851ba5bc9c4e95))
+* allow for tooltip on choice sets ([91cb477](https://github.com/wmfs/cardscript-extract-lists/commit/91cb477a58685b5ffb6c6822b33f386cbc1c9833))
+
 # [1.12.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.11.1...v1.12.0) (2022-07-06)
 
 
