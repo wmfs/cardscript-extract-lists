@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.13.0...v1.14.0) (2022-08-11)
+
+
+### ✨ Features
+
+* title value lookup for Table and MarkupTable ([e94540d](https://github.com/wmfs/cardscript-extract-lists/commit/e94540dc9f008bae0217159f0b7d75438bd4ae25))
+
 # [1.13.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.12.0...v1.13.0) (2022-07-12)
 
 
