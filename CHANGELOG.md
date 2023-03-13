@@ -1,3 +1,23 @@
+# [1.15.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.14.0...v1.15.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([a02678f](https://github.com/wmfs/cardscript-extract-lists/commit/a02678f7feed0ec2fbd06819a016749f4500806c))
+* **deps-dev:** update dependency chai to v4.3.7 ([8e8a2ba](https://github.com/wmfs/cardscript-extract-lists/commit/8e8a2ba1ba9c45bbd53db399d3881563d9bf21e7))
+* **deps-dev:** update dependency mocha to v10.1.0 ([8241acb](https://github.com/wmfs/cardscript-extract-lists/commit/8241acbc4cdaac4b63e55a6ee153a427b5c4a52f))
+* **deps-dev:** update dependency mocha to v10.2.0 ([1cbd23c](https://github.com/wmfs/cardscript-extract-lists/commit/1cbd23c8df34010e6f6ec28ef02aff652b182f21))
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([69ff23e](https://github.com/wmfs/cardscript-extract-lists/commit/69ff23ebbfc76a8c7d43a58fe1da56b97ff96fa3))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([e52b16d](https://github.com/wmfs/cardscript-extract-lists/commit/e52b16dc84933d084b4d051758ce4232dd795202))
+* **deps-dev:** update dependency semantic-release to v20 ([53dac35](https://github.com/wmfs/cardscript-extract-lists/commit/53dac3521fcd63fd4cdbe50f12566ac687815190))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([fef7f21](https://github.com/wmfs/cardscript-extract-lists/commit/fef7f21bb4ed8b3a6fc01b0cf472344ecfe7e2da))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([9399e24](https://github.com/wmfs/cardscript-extract-lists/commit/9399e24b4c170662fe1fa127f476ab892063c0b9))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([c1d987d](https://github.com/wmfs/cardscript-extract-lists/commit/c1d987d2dd3d58bee49528ef2267c75642fac852))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([7c16fa5](https://github.com/wmfs/cardscript-extract-lists/commit/7c16fa5e12de749126ee301c750339f3db54fa90))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([faf5326](https://github.com/wmfs/cardscript-extract-lists/commit/faf5326ea747f50ae5296aae5dec9796399d2e2c))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([776e6b7](https://github.com/wmfs/cardscript-extract-lists/commit/776e6b799cce7f969a06935f0bb41284cd5c0f1c))
+* **deps:** update dependency dottie to v2.0.3 ([804ddf6](https://github.com/wmfs/cardscript-extract-lists/commit/804ddf68928cb6c36e7f328ccccf6abb6b4187a3))
+
 # [1.14.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.13.0...v1.14.0) (2022-08-11)
 
 
