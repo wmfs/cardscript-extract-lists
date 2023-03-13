@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.15.0...v1.16.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.33.0 ([f3c1014](https://github.com/wmfs/cardscript-extract-lists/commit/f3c1014433fde5507909b75033dc09501bdd095b))
+
 # [1.15.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.14.0...v1.15.0) (2023-03-13)
 
 
