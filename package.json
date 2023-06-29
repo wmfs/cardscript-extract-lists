@@ -9,7 +9,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "@wmfs/cardscript-schema": "1.33.0",
+    "@wmfs/cardscript-schema": "1.35.0",
     "dottie": "2.0.6"
   },
   "devDependencies": {
