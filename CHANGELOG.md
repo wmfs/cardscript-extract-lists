@@ -1,3 +1,12 @@
+# [1.19.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.18.0...v1.19.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([e34b082](https://github.com/wmfs/cardscript-extract-lists/commit/e34b0826a90cd3654ccad78cc02fab2dab8fc45c))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([0231cf5](https://github.com/wmfs/cardscript-extract-lists/commit/0231cf51a3d6914302b15c570b7a47f10aa6b206))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.35.0 ([52d2a85](https://github.com/wmfs/cardscript-extract-lists/commit/52d2a8568cc5c35d0584d19fd098b98f966ac5ae))
+
 # [1.18.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.17.0...v1.18.0) (2023-06-20)
 
 
