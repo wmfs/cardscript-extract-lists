@@ -1,3 +1,10 @@
+## [1.19.1](https://github.com/wmfs/cardscript-extract-lists/compare/v1.19.0...v1.19.1) (2023-10-31)
+
+
+### Bug Fixes
+
+* fallback to element title if no column title present for tables ([58ed708](https://github.com/wmfs/cardscript-extract-lists/commit/58ed7087e4c69295efd7e214025a0aabbeb0162f))
+
 # [1.19.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.18.0...v1.19.0) (2023-07-26)
 
 
