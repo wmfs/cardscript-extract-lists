@@ -6,6 +6,104 @@ const chai = require('chai')
 const expect = chai.expect
 const { simple, complex } = require('@wmfs/cardscript-examples')
 
+const duplicateIds = {
+  body: [
+    {
+      id: 'outcome',
+      title: 'Outcome',
+      showWhen: 'type === \'A\'',
+      type: 'Input.ChoiceSet',
+      choices: [
+        { title: 'Choice A1', value: 'A1' },
+        { title: 'Choice A2', value: 'A2' },
+        { title: 'Choice A3', value: 'A3' },
+        { title: 'Choice X', value: 'X' },
+        { title: 'Choice Y', value: 'Y' },
+        { title: 'Choice Z', value: 'Z' }
+      ]
+    },
+    {
+      id: 'outcome',
+      title: 'Outcome',
+      showWhen: 'type === \'B\'',
+      type: 'Input.ChoiceSet',
+      choices: [
+        { title: 'Choice B1', value: 'B1' },
+        { title: 'Choice B2', value: 'B2' },
+        { title: 'Choice Y', value: 'Y' },
+        { title: 'Choice Z', value: 'Z' }
+      ]
+    },
+    {
+      id: 'outcome',
+      title: 'Outcome',
+      showWhen: 'type === \'C\'',
+      type: 'Input.ChoiceSet',
+      choices: [
+        { title: 'Choice C1', value: 'C1' }
+      ]
+    },
+    {
+      id: 'outcome',
+      title: 'Outcome',
+      showWhen: 'type === \'D\'',
+      type: 'Input.ChoiceSet',
+      choices: [
+        { title: 'Choice X', value: 'X' },
+        { title: 'Choice Y', value: 'Y' },
+        { title: 'Choice Z', value: 'Z' }
+      ]
+    },
+    {
+      type: 'FactSet',
+      facts: [
+        {
+          title: 'Outcome',
+          showWhen: 'type === \'A\'',
+          value: 'A1',
+          choices: [
+            { title: 'Choice A1', value: 'A1' },
+            { title: 'Choice A2', value: 'A2' },
+            { title: 'Choice A3', value: 'A3' },
+            { title: 'Choice X', value: 'X' },
+            { title: 'Choice Y', value: 'Y' },
+            { title: 'Choice Z', value: 'Z' }
+          ]
+        },
+        {
+          title: 'Outcome',
+          showWhen: 'type === \'B\'',
+          value: 'B1',
+          choices: [
+            { title: 'Choice B1', value: 'B1' },
+            { title: 'Choice B2', value: 'B2' },
+            { title: 'Choice Y', value: 'Y' },
+            { title: 'Choice Z', value: 'Z' }
+          ]
+        },
+        {
+          title: 'Outcome',
+          showWhen: 'type === \'C\'',
+          value: 'C1',
+          choices: [
+            { title: 'Choice C1', value: 'C1' }
+          ]
+        },
+        {
+          title: 'Outcome',
+          showWhen: 'type === \'D\'',
+          value: 'X',
+          choices: [
+            { title: 'Choice X', value: 'X' },
+            { title: 'Choice Y', value: 'Y' },
+            { title: 'Choice Z', value: 'Z' }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
 describe('Run some Cardscript list-extracting tests', function () {
   it('should extract no list from some simple Cardscript', function () {
     const result = extractLists(simple)
@@ -284,5 +382,82 @@ describe('Run some Cardscript list-extracting tests', function () {
         ]
       }
     )
+  })
+
+  it('should extract lists from Cardscript with duplicate ID', function () {
+    const result = extractLists(duplicateIds)
+    expect(result).to.eql({
+      $simpleTitleMaps: {
+        Outcome: {
+          A1: 'Choice A1',
+          A2: 'Choice A2',
+          A3: 'Choice A3',
+          B1: 'Choice B1',
+          B2: 'Choice B2',
+          C1: 'Choice C1',
+          X: 'Choice X',
+          Y: 'Choice Y',
+          Z: 'Choice Z'
+        },
+        outcome: {
+          A1: 'Choice A1',
+          A2: 'Choice A2',
+          A3: 'Choice A3',
+          B1: 'Choice B1',
+          B2: 'Choice B2',
+          C1: 'Choice C1',
+          X: 'Choice X',
+          Y: 'Choice Y',
+          Z: 'Choice Z'
+        }
+      },
+      outcome: [
+        {
+          label: 'Choice A1',
+          text: 'Choice A1',
+          value: 'A1'
+        },
+        {
+          label: 'Choice A2',
+          text: 'Choice A2',
+          value: 'A2'
+        },
+        {
+          label: 'Choice A3',
+          text: 'Choice A3',
+          value: 'A3'
+        },
+        {
+          label: 'Choice X',
+          text: 'Choice X',
+          value: 'X'
+        },
+        {
+          label: 'Choice Y',
+          text: 'Choice Y',
+          value: 'Y'
+        },
+        {
+          label: 'Choice Z',
+          text: 'Choice Z',
+          value: 'Z'
+        },
+        {
+          label: 'Choice B1',
+          text: 'Choice B1',
+          value: 'B1'
+        },
+        {
+          label: 'Choice B2',
+          text: 'Choice B2',
+          value: 'B2'
+        },
+        {
+          label: 'Choice C1',
+          text: 'Choice C1',
+          value: 'C1'
+        }
+      ]
+    })
   })
 })
