@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.19.1...v1.20.0) (2024-05-07)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-23258] Resolve issue with duplicate title maps ([#235](https://github.com/wmfs/cardscript-extract-lists/issues/235)) ([cea52f0](https://github.com/wmfs/cardscript-extract-lists/commit/cea52f080557ae7fb8a43e57ef551253d029e824))
+
 ## [1.19.1](https://github.com/wmfs/cardscript-extract-lists/compare/v1.19.0...v1.19.1) (2023-10-31)
 
 
