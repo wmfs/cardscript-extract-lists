@@ -1,3 +1,32 @@
+## [1.21.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.20.0...v1.21.0) (2025-01-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#258](https://github.com/wmfs/cardscript-extract-lists/issues/258)) ([9840790](https://github.com/wmfs/cardscript-extract-lists/commit/984079043d21a063215912a3d512ae389aa17fe2))
+* **deps-dev:** update dependency chai to v4.5.0 ([f0a289f](https://github.com/wmfs/cardscript-extract-lists/commit/f0a289fb42701124ae77f772d5f23bfe931ac83b))
+* **deps-dev:** update dependency mocha to v10.5.0 ([63236bf](https://github.com/wmfs/cardscript-extract-lists/commit/63236bfc54c628e9a9f116cfdb80bc6b56ebf1b3))
+* **deps-dev:** update dependency mocha to v10.5.1 ([4eeaafa](https://github.com/wmfs/cardscript-extract-lists/commit/4eeaafa9c187f794eed323536dfaa13c32bfc282))
+* **deps-dev:** update dependency mocha to v10.5.2 ([899d5d4](https://github.com/wmfs/cardscript-extract-lists/commit/899d5d4685df733c010814a722e2f74ef9e581ed))
+* **deps-dev:** update dependency mocha to v10.6.0 ([f7343ae](https://github.com/wmfs/cardscript-extract-lists/commit/f7343ae56df644ebfab68a441f787b16630021f4))
+* **deps-dev:** update dependency mocha to v10.7.0 ([67a5c7c](https://github.com/wmfs/cardscript-extract-lists/commit/67a5c7cd60481503603a281b84bfdf54523891b9))
+* **deps-dev:** update dependency mocha to v10.7.3 ([12902d3](https://github.com/wmfs/cardscript-extract-lists/commit/12902d36d34094a67858ed9e6bab4c340f0bad8b))
+* **deps-dev:** update dependency mocha to v10.8.1 ([bdd4cda](https://github.com/wmfs/cardscript-extract-lists/commit/bdd4cdacb11ae68c166af2eb1def1380be1d8036))
+* **deps-dev:** update dependency mocha to v10.8.2 ([87f1574](https://github.com/wmfs/cardscript-extract-lists/commit/87f15742bf3c30830373fef4b804b784be35085a))
+* **deps-dev:** update dependency mocha to v11 ([#256](https://github.com/wmfs/cardscript-extract-lists/issues/256)) ([f8755e8](https://github.com/wmfs/cardscript-extract-lists/commit/f8755e8b38c808b3c481cd580c39fda814880dbf))
+* **deps-dev:** update dependency nyc to v17 ([cb52244](https://github.com/wmfs/cardscript-extract-lists/commit/cb52244b9403cbf00c34e81b91a5cea1c8057753))
+* **deps-dev:** update dependency nyc to v17.1.0 ([965fdc2](https://github.com/wmfs/cardscript-extract-lists/commit/965fdc2e7243c8899b15f082842c7730fd53ab9d))
+* **deps-dev:** update dependency semantic-release to v23.1.1 ([f127204](https://github.com/wmfs/cardscript-extract-lists/commit/f1272040ba986dcbaf0cee95a70ba7c4821bbb04))
+* **deps-dev:** update dependency semantic-release to v24 ([c07d035](https://github.com/wmfs/cardscript-extract-lists/commit/c07d035a438fd92624c38f550648ae9e29c4d9dd))
+* **deps-dev:** update dependency semantic-release to v24.1.0 ([843ed00](https://github.com/wmfs/cardscript-extract-lists/commit/843ed00b6844927535ad7c7486371c3458de7a0f))
+* **deps-dev:** update dependency semantic-release to v24.1.1 ([d0fbb2e](https://github.com/wmfs/cardscript-extract-lists/commit/d0fbb2ea643d49943da1462f82266b7112eb9f5f))
+* **deps-dev:** update dependency semantic-release to v24.1.2 ([96cbe5a](https://github.com/wmfs/cardscript-extract-lists/commit/96cbe5a157cd853408559bf801e257ee75f7fbfc))
+* **deps-dev:** update dependency semantic-release to v24.1.3 ([0373150](https://github.com/wmfs/cardscript-extract-lists/commit/037315031753d06ee7e6415d981b4bb8297d4005))
+* **deps-dev:** update dependency semantic-release to v24.2.0 ([293fc8a](https://github.com/wmfs/cardscript-extract-lists/commit/293fc8af4b75f2d61a9926a5422881c987d9bc85))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#257](https://github.com/wmfs/cardscript-extract-lists/issues/257)) ([d2ff88a](https://github.com/wmfs/cardscript-extract-lists/commit/d2ff88ada3a046f9c5b71bfb5d352d747675b659))
+* **deps-dev:** update dependency standard to v17.1.1 ([e68a34e](https://github.com/wmfs/cardscript-extract-lists/commit/e68a34e9b4ba5176a36d0742bcf221912b979227))
+* **deps-dev:** update dependency standard to v17.1.2 ([ea9b861](https://github.com/wmfs/cardscript-extract-lists/commit/ea9b861e68d6d19da9a58c07e3563d5cf5d38253))
+* **deps:** update dependency @wmfs/cardscript-schema to v1.36.0 ([#259](https://github.com/wmfs/cardscript-extract-lists/issues/259)) ([15eeda4](https://github.com/wmfs/cardscript-extract-lists/commit/15eeda4ca7d134d5d65596c732065258cde3ea9b))
+
 # [1.20.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.19.1...v1.20.0) (2024-05-07)
 
 
