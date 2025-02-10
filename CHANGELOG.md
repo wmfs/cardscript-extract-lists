@@ -1,3 +1,11 @@
+## [1.22.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.21.0...v1.22.0) (2025-02-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.1.0 ([#260](https://github.com/wmfs/cardscript-extract-lists/issues/260)) ([14d4d17](https://github.com/wmfs/cardscript-extract-lists/commit/14d4d17f3a204583b320c90c62f7ce065c093fa5))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#262](https://github.com/wmfs/cardscript-extract-lists/issues/262)) ([3baf9fe](https://github.com/wmfs/cardscript-extract-lists/commit/3baf9fec637e0497c0dceddd16bfa2ee1369fed7))
+* **deps:** update dependency @wmfs/cardscript-schema to v1.37.0 ([#261](https://github.com/wmfs/cardscript-extract-lists/issues/261)) ([2a124cc](https://github.com/wmfs/cardscript-extract-lists/commit/2a124cc2050bcd0072699e52473a96b888d2a490))
+
 ## [1.21.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.20.0...v1.21.0) (2025-01-10)
 
 ### Build system dependencies :hammer:
