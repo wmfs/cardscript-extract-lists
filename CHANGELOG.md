@@ -1,3 +1,5 @@
+## [1.24.1](https://github.com/wmfs/cardscript-extract-lists/compare/v1.24.0...v1.24.1) (2026-08-14)
+
 ## [1.24.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.23.0...v1.24.0) (2025-11-25)
 
 ### Build system dependencies :hammer:
