@@ -1,3 +1,9 @@
+## [1.26.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.25.0...v1.26.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency @wmfs/cardscript-schema to v1.39.0 ([#324](https://github.com/wmfs/cardscript-extract-lists/issues/324)) ([12e8678](https://github.com/wmfs/cardscript-extract-lists/commit/12e86781f25c8e9ea440e246e50a66afe5258f91))
+
 ## [1.25.0](https://github.com/wmfs/cardscript-extract-lists/compare/v1.24.1...v1.25.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
